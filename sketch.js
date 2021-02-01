@@ -36,7 +36,7 @@ function draw() {
   fill("red");
   text("stock =" + foodS,200,360);
   fill("black");
-  text("NOTE : PRESS UP ARROW KEY TO FEED 'RICKY' ",50,490);
+  text("NOTE : PRESS UP ARROW KEY TO FEED 'RICKY' ",10,490);
 
 
   if(keyWentDown(UP_ARROW)){
